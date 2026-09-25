@@ -1,4 +1,4 @@
-# Cribl Configuration Export / Import
+# cribl-config-toolkit: Cribl Configuration Export / Import
 
 Small Python utility for exporting and importing configuration from
 multiple Cribl Stream instances using the Cribl REST API.
