@@ -1,0 +1,21 @@
+# Secrets
+.env
+
+# Exported Cribl configuration
+# May contain credentials or other sensitive data
+cribl-config/*/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
